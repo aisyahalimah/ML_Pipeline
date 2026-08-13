@@ -1,2 +1,2 @@
 # ML_Pipeline
-trying out pipeline in building a ML models
+trying out pipeline for building a ML models
